@@ -1,0 +1,5 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore phone numbers CSV file
+phone_numbers.csv
